@@ -32,3 +32,5 @@ To compile a program the .c extension is required by compilers.  Once a .c progr
 
 [Makefile Tutorial - YouTube](https://www.youtube.com/watch?v=yWLkyN_Satk) <br />
 [Makefile Walkthrough - Stanford](https://web.stanford.edu/class/archive/cs/cs107/cs107.1174/guide_make.html)
+
+![hello](https://github.com/radixon/Fundamentally_C/assets/59415488/b9fbe73c-a38b-4d2b-b10f-dcde4a7be081)
