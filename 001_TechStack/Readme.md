@@ -17,11 +17,16 @@ int main(void){
 
 ## IDE - Author's Choice
 
-[VS Code](https://code.visualstudio.com/)
+[VS Code](https://code.visualstudio.com/) <br />
+An integrated development environment (IDE) is a software package that allows users to edit, compile, link, execute, and debug C programs in a single environment.
 
-## Compiler - Author's Choice
+## Compiling and Linking - Author's Choice
 
-[WSL 2 - Ubuntu](https://learn.microsoft.com/en-us/windows/wsl/install)
+[WSL 2 - Ubuntu](https://learn.microsoft.com/en-us/windows/wsl/install) <br />
+To compile a program the .c extension is required by compilers.  Once a .c program is written, the compiler generally follow three steps:
+1. Preprocessing:  The preprocessor processes directives which follow #.
+2. Compiling:  The .c program in conjuction with the directives is translated into object code (machine instructions).
+3. Linking:  A linker combines the object code produced by the compiler with any additional code necessary to produce an executable program.
 
 ## Make - Author's Choice
 
