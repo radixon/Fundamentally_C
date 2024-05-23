@@ -25,5 +25,5 @@ int main(void){
 
 ## Make - Author's Choice
 
-[Makefile Tutorial - YouTube](https://www.youtube.com/watch?v=yWLkyN_Satk)
+[Makefile Tutorial - YouTube](https://www.youtube.com/watch?v=yWLkyN_Satk) <br />
 [Makefile Walkthrough - Stanford](https://web.stanford.edu/class/archive/cs/cs107/cs107.1174/guide_make.html)
