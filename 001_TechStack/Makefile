@@ -3,17 +3,17 @@ CFLAGS = -Wno-implicit-function-declaration
 all: hi
 
 hi: main.o hello.o
-	@echo "Linking and producting the executable\n"
 	gcc $(CFLAGS) main.o hello.o -o hi
+	@echo "Linking and producting the executable\n"
 
 main.o: main.c
-	@echo "Compiling the main file\n"
 	gcc $(CFLAGS) -c main.c
+	@echo "Compiling the main file\n"
 
 hello.o: hello.c 
-	@echo "Compiling the hello file\n"
 	gcc $(CFLAGS) -c hello.c
+	@echo "Compiling the hello file\n"
 
 clean:
-	@echo "Reducing folder to source files\n"
 	rm main.o hello.o hi 
+	@echo "Reducing folder to source files\n"
